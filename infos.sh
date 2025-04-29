@@ -1,3 +1,4 @@
+#!/bin/bash
 #Nome do Usuário corrente.
 whoami
 #Nome do computador na rede.
