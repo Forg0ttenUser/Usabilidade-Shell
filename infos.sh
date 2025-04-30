@@ -1,4 +1,8 @@
 #!/bin/env bash
+clear
+
+echo "Informações de sistema:"
+
 #Nome do Usuário corrente.
 whoami
 #Nome do computador na rede.
